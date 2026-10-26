@@ -10,6 +10,5 @@ The website shows my profile, techs and some projects
 - CSS.
 
 🌐 URL
-
 Check it at:
 https://carlos-m-r.github.io/
